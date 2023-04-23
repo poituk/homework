@@ -1,0 +1,183 @@
+.header{
+    overflow: hidden;
+    background-color: #007765;
+    height: 50px;
+    width: 100%;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+.logo{
+    display: inline-bolck;
+    float: left;
+    max-width: 100%;
+    max-height: 100%;
+    margin-left: 18%;
+}
+.navigation{
+    margin-top: 0.5%;
+    vertical-align: center;
+    display: inline-bolck;
+    margin-left: 65%;
+}
+.navigation a{
+    text-decoration: none;
+    color: white;
+    font-size: 150%;
+    vertical-align: middle;
+}
+.headerphoto{
+    color: white;
+    padding: 5%;
+    background-image: url('img/image-15.png');
+}
+.headerphoto p{
+    font-family: Roboto;
+    font-size: 72px;
+    font-weight: 500;
+    line-height: 84px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.problem{
+    padding: 4%;
+    padding-left: 20%;
+    padding-right: 20%;
+    background-color: #EEEEEE;
+}
+.problem p {
+    margin:auto;
+}
+#pg1{
+    font-family: Roboto;
+    font-size: 64px;
+    font-weight: 500;
+    line-height: 75px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #007765;
+}
+#pg2{
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+.secondphoto{
+    color: white;
+    padding: 7%;
+    padding-left: 20%;
+    padding-right: 20%;
+    background-image: url('img/image-6.png');
+}
+.secondphoto p{
+    font-family: Roboto;
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 56px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+#ppcoin{
+    display: inline-block;
+    padding: 3%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.pp1{
+    color:  #007765;
+    font-family: Roboto;
+    font-size: 400%;
+    line-height: 75px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-bottom: 5%;
+    
+}
+.pp2{
+    display: inline;
+    float: left;
+    margin-right: 3%;
+}
+ .pp3{
+    display: inline;
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+ }
+ #team{
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    background-color: #EEEEEE;
+ }
+ .namep{
+    text-align: center;
+    position: relative;
+    width: 100%;
+ }
+ .tm{
+    color:  #007765;
+    margin-bottom: 2%;
+    font-family: Roboto;
+    font-size: 64px;
+    font-weight: 500;
+    letter-spacing: 0em;
+    margin-left: 45%;
+ }
+ .RH{
+    display: inline-block;
+    margin-left: 8%;
+    margin-right: 8%;
+ }
+ .n1 p{
+    color: #007765;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-bottom: 0%;
+
+ }
+ .n2 p{
+    color:  #000000;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 1%;
+ }
+.footer{
+    padding: 2%;
+    padding-left: 38%;
+    padding-right: 38%;
+    background-color: #333333;
+}
+.footer p{
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
