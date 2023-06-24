@@ -1,0 +1,40 @@
+body{
+    z-index: 100;
+    background-color: #c3d7d6;
+}
+.main{
+    z-index: 1000;
+    background-color: rgb(255, 255, 255);
+    margin-left: 8%;
+    margin-right: 8%;
+    padding: 2%;
+}
+.main > div {
+    margin-bottom: 3%;
+}
+.foter > h1{
+    font-size: 44px;
+}
+.format{
+    width: 40%;
+    height: auto;
+}
+.foter{
+    text-align: center;
+}
+p{
+    font-family: Roboto;
+    font-size: 32px;
+    
+}
+ul{
+    font-family: Roboto;
+    font-size: 32px;
+    
+}
+img{
+    float: left; 
+    display: block;
+    margin-right: 4%;
+    margin-bottom: 2%;
+}
