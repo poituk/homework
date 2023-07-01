@@ -1,0 +1,25 @@
+.flabel2{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.flabel2:hover, .flabel2:active{
+    color: #888787;
+}
+
+@media (min-width: 768px) {
+    .t1{
+        max-width: 33%;
+    }
+}
+body{
+    margin: 0;
+}
+.main2{
+    margin: 0 3%;
+}
+
+footer{
+    border-top: 0.001rem solid rgb(48, 47, 47);
+    background-color: #f7f5f5;
+}
