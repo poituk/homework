@@ -18,8 +18,9 @@ body{
 .main2{
     margin: 0 3%;
 }
-
+tbody>tr:hover, .bar1:hover, .bar2:hover{
+    background-color: #f0eeee;
+}
 footer{
-    border-top: 0.001rem solid rgb(48, 47, 47);
-    background-color: #f7f5f5;
+    background-color: #f0eeee;
 }
