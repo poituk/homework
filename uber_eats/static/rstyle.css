@@ -1,0 +1,60 @@
+.main1{
+    background-image: url(../media/rmain.svg); /* Фоновый цвет и фоновый рисунок*/
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.namer{
+    background-color: white;
+}
+.ch1{
+    color: black;
+}
+.ch1:active, .ch1:focus, .ch1, .ch1:hover, ch1:checked, ch1:target{
+    z-index: 154545454;
+    color: black;
+}
+.fon1{
+    background: rgb(218,218,231);
+    background: linear-gradient(0deg, rgba(218,218,231,1) 0%, rgba(255,255,255,1) 5%);
+}
+.card{
+    border: none;
+}
+.cards {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2%;
+    border: 0.01rem solid;
+    border-color: rgb(220, 224, 228);
+    overflow: hidden;
+}
+.cards1 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2%;
+    border: 0.01rem solid;
+    border-color: rgb(220, 224, 228);
+    overflow: hidden;
+}
+
+.cards > img {
+    display: inline-block;
+    float: right;
+    max-width: 100%;
+}
+.cards1 > img {
+    display: inline-block;
+    float: right;
+    width: 30%;
+}
+.textc {
+    display: inline-block;
+}
+.cards:hover{
+    background-color: #e9e9e9;
+}
+.cards1:hover{
+    background-color: #e9e9e9;
+}
+

@@ -1,0 +1,71 @@
+.click{
+    cursor: pointer;
+}
+.logo{
+    width: 10rem;
+}
+.biglogo{
+    width: 15rem;
+}
+.blogo{
+    background: rgb(209,209,217);
+    background: linear-gradient(360deg, rgba(209,209,217,0.927608543417367) 0%, rgba(255,255,255,1) 13%);
+}
+input:active, input:focus { 
+    outline: none; 
+}
+.form-control:focus {
+    box-shadow: 0px 0px 0px 0px !important;
+}
+.unlink{
+    text-decoration: none;
+    color: black;
+}
+.unlink img:hover{
+    transform: scale(1.05);
+}
+.unlink img{
+    transition: 0.4s;
+    width: 100%;
+}
+footer{
+    background-color: #262626;
+}
+.separator {
+    border-top: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.lgb{
+    background-color: #3B3B3B;
+    display: flex;
+    justify-content: baseline;
+    padding: 1%;
+}
+.world{
+    display: inline-block;
+    margin-right: 1%;
+}
+.delstyl{
+    color: white;
+    width: 90%;
+    border: 0;
+    background-color: #3B3B3B;
+    box-shadow: 0px 0px 0px 0px !important;
+}
+.delstyl {
+    outline: none;
+}
+.linkdown > a{
+    display: block;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-bottom: 7%;
+}
+.lingfl{
+    display: flex;
+    flex-direction: row;   
+}
+.endword > p{
+    color: white;
+}
